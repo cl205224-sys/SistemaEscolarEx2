@@ -1,0 +1,3 @@
+Calcular a nota dos alunos
+Gerencia as faltas dos alunos
+Mostrar advertências dos alunos
